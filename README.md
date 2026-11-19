@@ -9,7 +9,7 @@ https://insights.kkvlabs.com/mcp
 There is nothing to install and no Google Cloud project to set up. This repository holds the documentation only. The service itself is run by KKV Labs LLC and its source code is not public.
 
 - Website: https://www.kkvlabs.com/site-insights
-- Claude connector directory: https://claude.com/marketplace/connectors/site-insights
+- Claude connector directory: https://claude.ai/directory/site-insights
 - Support: support@kkvlabs.com
 
 ## Contents
@@ -37,7 +37,7 @@ You need a Google account that can see your GA4 property or Search Console site.
 3. Keep the detected settings (Sign in now and Use Claude's published identity) and click Add.
 4. Click Connect, sign in with Google and click Allow.
 
-Site Insights by KKV Labs is also listed in the Claude connector directory: https://claude.com/marketplace/connectors/site-insights
+Site Insights by KKV Labs is also listed in the Claude connector directory: https://claude.ai/directory/site-insights
 
 Full guide with screenshots: [docs/claude.md](docs/claude.md)
 
@@ -230,7 +230,7 @@ Email support@kkvlabs.com with what you saw and which step you were on.
 - Claude guide: https://www.kkvlabs.com/site-insights/connect-claude
 - ChatGPT guide: https://www.kkvlabs.com/site-insights/chatgpt
 - Claude Code guide: https://www.kkvlabs.com/site-insights/claude-code
-- Claude connector directory listing: https://claude.com/marketplace/connectors/site-insights
+- Claude connector directory listing: https://claude.ai/directory/site-insights
 - Your account (switch on sites, plan, disconnect): https://insights.kkvlabs.com/account
 - How to set up Google's own GA4 MCP server: https://www.kkvlabs.com/guides/how-to-set-up-google-analytics-mcp-server
 - How to see ChatGPT traffic in Google Analytics: https://www.kkvlabs.com/guides/how-to-see-chatgpt-traffic-in-google-analytics

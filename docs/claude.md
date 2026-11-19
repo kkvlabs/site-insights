@@ -16,7 +16,7 @@ Live version of this guide: https://www.kkvlabs.com/site-insights/connect-claude
 https://insights.kkvlabs.com/mcp
 ```
 
-Site Insights by KKV Labs is also listed in the Claude connector directory: https://claude.com/marketplace/connectors/site-insights. The steps below add it as a custom connector, which works on every Claude plan listed above.
+Site Insights by KKV Labs is also listed in the Claude connector directory: https://claude.ai/directory/site-insights. The steps below add it as a custom connector, which works on every Claude plan listed above.
 
 ## Step 1: Open Connectors in Claude
 
