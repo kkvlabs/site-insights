@@ -1,5 +1,7 @@
 # Site Insights by KKV Labs: Google Analytics 4 and Search Console MCP for Claude and ChatGPT
 
+[![Site Insights by KKV Labs MCP connector: tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.kkvlabs/site-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.kkvlabs/site-insights)
+
 Site Insights by KKV Labs is a hosted, read only MCP server: paste one link into Claude or ChatGPT, sign in with Google once, and ask about the Google Analytics 4 and Search Console data of every site you manage.
 
 ```
