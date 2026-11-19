@@ -145,6 +145,6 @@ You do not need one. Site Insights is an MCP server, so its tools load in Claude
 No. Site Insights is hosted: you sign in with Google in the browser. Google's own analytics-mcp server is the do it yourself option and needs a Cloud project, gcloud credentials and pipx. KKV Labs has a guide for it: https://www.kkvlabs.com/guides/how-to-set-up-google-analytics-mcp-server
 
 **Does it cost anything?**
-It is free for one site with 10 lookups a day. Pro is $12 a month for 10 sites and Agency is $39 a month for 50 sites.
+It is free for one site with 10 lookups a day. Pro is $9 a month for 10 sites and Agency is $49 a month for 50 sites.
 
 [Back to README](../README.md)

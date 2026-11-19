@@ -61,8 +61,8 @@ Then open https://insights.kkvlabs.com/account. If the new property is not liste
 | Plan | Price | Sites |
 |---|---|---|
 | Free | $0 | 1 site, 10 lookups a day |
-| Pro | $12 a month, or $120 a year | Up to 10 sites, no daily lookup limit (fair use) |
-| Agency | $39 a month, or $390 a year | Up to 50 sites, client labels and compare all sites, no daily lookup limit (fair use) |
+| Pro | $9 a month, or $99 a year | Up to 10 sites, no daily lookup limit (fair use) |
+| Agency | $49 a month, or $490 a year | Up to 50 sites, client labels and compare all sites, no daily lookup limit (fair use) |
 
 It is a flat price: not a price per site or per client. Agencies pay the same whether a client site is busy or quiet.
 

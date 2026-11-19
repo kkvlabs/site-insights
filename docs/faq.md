@@ -74,7 +74,7 @@ In Claude, open the connector and click Disconnect. In ChatGPT, you can manage o
 ## Plans
 
 **How many sites can I connect?**
-One on the free plan, 10 on Pro ($12 a month) and 50 on Agency ($39 a month).
+One on the free plan, 10 on Pro ($9 a month) and 50 on Agency ($49 a month).
 
 **What is a lookup?**
 One tool call. One question can use two or three, so the Free plan's 10 lookups a day is about three to five questions. Listing your sites is free.

@@ -160,7 +160,7 @@ The main choice is hosted or self-hosted. If you want a free, open source server
 | | Reads | Setup | Many sites | Price | Source |
 |---|---|---|---|---|---|
 | Google's GA4 MCP server (analytics-mcp) | Google Analytics only | Runs on your computer or a server you host. Needs Python, a Google Cloud project, two APIs switched on and gcloud credentials | Any property your login sees. No pairing with Search Console | Free, open source | GitHub README and PyPI stats, read 17 Nov 2026 |
-| **Site Insights by KKV Labs** | GA4 and Search Console, joined page by page | Hosted. Paste one link into Claude or ChatGPT and sign in with Google | Pairs GA4 and Search Console per site, labels, compare all sites | Free for 1 site. $12 a month for 10 sites, $39 for 50 | Our product |
+| **Site Insights by KKV Labs** | GA4 and Search Console, joined page by page | Hosted. Paste one link into Claude or ChatGPT and sign in with Google | Pairs GA4 and Search Console per site, labels, compare all sites | Free for 1 site. $9 a month for 10 sites, $49 for 50 | Our product |
 | mcp-gsc | Search Console only | Runs locally. Needs a Google Cloud OAuth client or service account, and uv | Works across the properties on your Google account | Free, open source | GitHub README, read 18 Nov 2026 |
 
 Want to run Google's own server? KKV Labs has a step by step guide: https://www.kkvlabs.com/guides/how-to-set-up-google-analytics-mcp-server
@@ -183,8 +183,8 @@ Summary: [docs/privacy-summary.md](docs/privacy-summary.md). Full privacy policy
 | Plan | Price | Includes |
 |---|---|---|
 | Free | $0 | 1 site (a GA4 property and its Search Console property), 10 lookups a day, every tool |
-| Pro | $12 a month, or $120 a year | Up to 10 sites, no daily lookup limit (fair use), every tool |
-| Agency | $39 a month, or $390 a year | Up to 50 sites, client labels and compare all sites, no daily lookup limit (fair use) |
+| Pro | $9 a month, or $99 a year | Up to 10 sites, no daily lookup limit (fair use), every tool |
+| Agency | $49 a month, or $490 a year | Up to 50 sites, client labels and compare all sites, no daily lookup limit (fair use) |
 
 A lookup is one tool call. One question can use two or three, so 10 lookups is about three to five questions a day. Listing your sites is free. Cancel any time from your account page, and if it is not for you, email us within 30 days of a payment for a full refund. Team seats on one account are planned, not available yet.
 
@@ -215,7 +215,7 @@ Self-host mcp-gsc if you want a free, open source server on your own machine and
 Ask "How many visits did ChatGPT and Perplexity send me in the last 90 days?". The `ai_traffic` tool reads GA4 and returns the total, the share of all sessions, each assistant, the landing pages and the trend.
 
 **What is a good GA4 MCP for an agency managing many client sites?**
-Look for one that pairs GA4 with Search Console per site, lets you label sites by client and compares all of them in one call. Site Insights does all three. The Agency plan covers up to 50 sites for $39 a month. See [docs/agencies.md](docs/agencies.md).
+Look for one that pairs GA4 with Search Console per site, lets you label sites by client and compares all of them in one call. Site Insights does all three. The Agency plan covers up to 50 sites for $49 a month. See [docs/agencies.md](docs/agencies.md).
 
 More questions: [docs/faq.md](docs/faq.md)
 
