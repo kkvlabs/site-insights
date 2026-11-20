@@ -36,13 +36,9 @@ Start Claude Code with `claude`, type `/mcp`, pick site-insights and choose Auth
 
 Click Continue with Google and choose the Google account that can see your Analytics and Search Console. Google lists the two read only permissions: click Allow. Then Site Insights asks Allow Claude Code to use Site Insights? Click Allow.
 
-> **Beta note:** Google is still reviewing Site Insights. Until it's done, Google may show an "unverified app" warning when you sign in. That's expected and safe: choose "Go to Site Insights by KKV Labs" to continue. Access stays read only, and you can disconnect at any time.
-
 The browser pages are the same ones shown in the ChatGPT guide:
 
 ![Site Insights sign in page with the Continue with Google button](img/chatgpt-04-site-insights-sign-in.png)
-
-![Google hasn't verified this app, with the Go to Site Insights by KKV Labs (unsafe) link](img/chatgpt-06-google-unverified-warning.png)
 
 ![Google lists the two read only permissions with the Allow button](img/chatgpt-08-google-permissions.png)
 

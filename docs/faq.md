@@ -11,8 +11,8 @@ MCP (Model Context Protocol) is the standard way Claude, ChatGPT and other AI as
 **What is a Google Search Console MCP?**
 A connector that gives Claude, ChatGPT or another AI assistant tools to read your Search Console data through MCP. You ask about clicks, queries, pages and indexing in plain English and the assistant pulls the numbers from Google.
 
-**Is Site Insights in beta?**
-Yes. Google is still reviewing Site Insights. Until it's done, Google may show an "unverified app" warning when you sign in. That's expected and safe: choose "Go to Site Insights by KKV Labs" to continue. Access stays read only, and you can disconnect at any time.
+**Is Site Insights verified by Google?**
+Yes. Google approved Site Insights by KKV Labs in November 2026, so sign in shows no warning. Access is read only, and you can disconnect at any time.
 
 **Why did KKV Labs build it?**
 KKV Labs runs about 10 sites of its own and checked Google Analytics, Search Console, Bing and Clarity for each of them by hand every week. Google's own GA4 MCP server is downloaded about 36,845 times a week (PyPI, 17 November 2026), but it is made to run on your own computer or a server you set up, and it needs a Google Cloud project and credentials first. We could not find a hosted connector that reads GA4 and Search Console together, so we built one.

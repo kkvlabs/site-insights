@@ -48,15 +48,9 @@ On the Site Insights page, click Continue with Google. Choose the Google account
 
 ![Google asks which account to continue to Site Insights by KKV Labs with](img/chatgpt-05-google-choose-account.png)
 
-## Step 5: Get past Google's warning and allow access
+## Step 5: Allow read only access
 
-If Google shows Google hasn't verified this app, choose Go to Site Insights by KKV Labs (unsafe). Then click Continue.
-
-Google lists the two read only permissions: see and download your Google Analytics data, and view Search Console data for your verified sites. Click Allow.
-
-> **Beta note:** Google is still reviewing Site Insights. Until it's done, Google may show an "unverified app" warning when you sign in. That's expected and safe: choose "Go to Site Insights by KKV Labs" to continue. Access stays read only, and you can disconnect at any time.
-
-![Google hasn't verified this app, with the Go to Site Insights by KKV Labs (unsafe) link](img/chatgpt-06-google-unverified-warning.png)
+Click Continue, then check the two read only permissions Google lists: see and download your Google Analytics data, and view Search Console data for your verified sites. Click Allow. Site Insights never changes anything in your accounts.
 
 ![Google asks you to continue signing in to Site Insights by KKV Labs](img/chatgpt-07-google-continue.png)
 

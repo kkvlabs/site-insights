@@ -51,8 +51,6 @@ A Site Insights page opens. Click Continue with Google and choose the Google acc
 
 Google asks you to let Site Insights see your Google Analytics data and your Search Console data. Tick both and continue. Both permissions are read only: Site Insights can never change your settings.
 
-> **Beta note:** Google is still reviewing Site Insights. Until it's done, Google may show an "unverified app" warning when you sign in. That's expected and safe: choose "Go to Site Insights by KKV Labs" to continue. Access stays read only, and you can disconnect at any time.
-
 ![Site Insights sign in page with the Continue with Google button](img/claude-06-site-insights-sign-in.png)
 
 ## Step 6: Allow Claude

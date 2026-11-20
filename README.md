@@ -66,8 +66,6 @@ Full guide: [docs/claude-code.md](docs/claude-code.md)
 
 After sign in, open https://insights.kkvlabs.com/account. Every GA4 property and Search Console site your Google account can see is listed and paired by domain. Switch on the sites your assistant may read: 1 on Free, 10 on Pro, 50 on Agency. If no site is switched on, the assistant answers that the site is not connected.
 
-> **Beta:** Google is still reviewing Site Insights. Until it's done, Google may show an "unverified app" warning when you sign in. That's expected and safe: choose "Go to Site Insights by KKV Labs" to continue. Access stays read only, and you can disconnect at any time.
-
 ## Also works with
 
 Site Insights is a standard remote MCP server with OAuth sign in. Besides Claude, ChatGPT and Claude Code (tested by us), these apps support remote MCP servers by link with their own sign in, per their official docs (checked 18 Nov 2026). We have not tested them end to end.
